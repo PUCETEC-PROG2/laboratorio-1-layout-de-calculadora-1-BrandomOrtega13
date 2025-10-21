@@ -5,10 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
-
+- **Nombre completo**: Brandom Ariel Ortega Bermudez
+- **Carrera**: Desarrollo de Software
+- **Fecha de entrega**: 21/10/2025
 ---
 
 ## Objetivo
